@@ -1,2 +1,2 @@
 #!/bin/bash
-tr ['a-z','A-Z'] ['nopqrstuvwxyzabcdefghijklm','NOPQRSTUVWXYZABCDEFGHIJKLM']
+tr ["a-z","A-Z"] ['nopqrstuvwxyzabcdefghijklm','NOPQRSTUVWXYZABCDEFGHIJKLM']
