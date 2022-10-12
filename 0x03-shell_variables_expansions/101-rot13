@@ -1,2 +1,2 @@
 #!/bin/bash
-tr ["acbdefghijklmnopqrstuvwxyz","ACBDEFGHIJKLMNOPQRSTUVWXYZ"] ['npoqrstuvwxyzabcdefghijklm','NPOQRSTUVWXYZABCDEFGHIJKLM']
+tr ["acbdefghijklmnpoqrstuvwxyz","ACBDEFGHIJKLMNPOQRSTUVWXYZ"] ["npoqrstuvwxyzacbdefghijklm","NPOQRSTUVWXYZACBDEFGHIJKLM"]
